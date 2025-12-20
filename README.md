@@ -1,1 +1,1 @@
-# Learning c++ fundamentals for competitive programmnig
+# Learning C++ fundamentals for competitive programmnig
