@@ -1,5 +1,7 @@
 #include <iostream>
 int main(void) { 
+    /*he initialization is performed 
+    using the initializer list*/
     char x{'A'}; // single quote must be used for char
     int age{18};
     double skill_level{963.332342999};
