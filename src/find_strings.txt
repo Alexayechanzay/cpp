@@ -1,0 +1,9 @@
+* .find() as a member function of the std::string class 
+used to search for a sequence of characters within a string.
+
+When you use s1.find(target), the function looks through s1 
+for the first occurrence of target. If it finds it, 
+it returns the index (the position) where that substring starts.
+
+If the sub_str is not found, func returns value that's 
+std::string::npos (npos=no position) which is very large number*/
