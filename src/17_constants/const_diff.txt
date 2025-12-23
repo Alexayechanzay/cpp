@@ -1,0 +1,10 @@
+const is a promise that once a variable 
+gets its value, it won't change. However, 
+that value can be decided while the program 
+is already running (like a user's input).
+
+constexpr is a much stricter promise. 
+It says the value must be decided while 
+the code is being compiled.
+If the compiler can't figure it out then, 
+it will throw an error.
