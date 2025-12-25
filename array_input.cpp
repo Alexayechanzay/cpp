@@ -13,7 +13,7 @@ int main() {
     cin>>n;
     int arr[n] = {};
     // taking inputs for array using loop
-    for (int i=0;i<5;i++){
+    for (int i=0;i<n;i++){
         cin>>arr[i]; 
     }
     // Reversing the order
@@ -24,6 +24,6 @@ int main() {
     
 }
 /*In C++, the name of an array 
-acts as a pointer to i
-ts first element.*/
+acts as a pointer to 
+its first element.*/
     
