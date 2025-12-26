@@ -13,3 +13,16 @@ void Myclass::dosomething(){
 void Myclass::dosomethingelse(){
     std::cout<<"Hello Universe from a class.";
 }
+
+
+/*
+
+#include <iostream>
+
+class Myclass {
+    int x = 10;
+    void printx(){
+        std::cout<<"The value of x is: "<<x;
+    }
+};
+*/
